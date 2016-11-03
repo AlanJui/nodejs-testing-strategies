@@ -1,0 +1,16 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscription module for Rocket Shop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "author": "Alan Jui",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.15.2",
+    "underscore": "^1.8.3"
+  }
+}
